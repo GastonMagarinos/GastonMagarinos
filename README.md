@@ -3,7 +3,7 @@
 	
 <div  align="center">
 
-![Status](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/GastonMagarinos/eb878a18027f007e7ec9b50f112cca6e/raw)
+![Status](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/GastonMagarinos/eb878a18027f007e7ec9b50f112cca6e/raw&amp;cache=0)
 <img src="https://komarev.com/ghpvc/?username=GastonMagarinos&label=Profile%20views&color=brightgreen&style=flat" alt="GastonMagarinos" />
 
 </div>
