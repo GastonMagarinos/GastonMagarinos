@@ -3,7 +3,7 @@
 <div align="center">
 	
 ![Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/GastonMagarinos/my-status-badge/main/status.json)
-<p ><img src="https://komarev.com/ghpvc/?username=GastonMagarinos&label=Profile%20views&color=29903B&style=flat" alt="GastonMagarinos" /> </p>
+<p ><img src="https://komarev.com/ghpvc/?username=GastonMagarinos&label=Profile%20views&color=brightgreen&style=flat" alt="GastonMagarinos" /> </p>
 </div>
 
 ---
