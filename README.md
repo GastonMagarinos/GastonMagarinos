@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Gaston Magariños <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GastonMagarinos&label=Profile%20views&color=29903B&style=flat" alt="GastonMagarinos" /> </p>
 
 ---
 
@@ -55,7 +55,7 @@
 ## Contact & Social Networks
 <div align="center">
 	
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastonmagarinios8@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastonmagarinios8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-magari%C3%B1os-148137401/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=cyan)](https://github.com/GastonMagarinos)
 [![X](https://img.shields.io/badge/x.com-1DA1F2?style=for-the-badge&logo=x&logoColor=black)](https://x.com/GastonMaga61420)
