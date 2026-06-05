@@ -36,15 +36,17 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/GastonMagarinos">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GastonMagarinos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=GastonMagarinos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/GastonMagarinos">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GastonMagarinos&layout=compact&langs_count=8&theme=react"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GastonMagarinos&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GastonMagarinos&theme=dracula&hide_border=false"/>
 </p>
 
 ---
