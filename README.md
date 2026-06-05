@@ -1,7 +1,12 @@
 <h1 align="center">Hi , I'm Gaston Magariños <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 	
-<div align="center"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/GastonMagarinos/my-status-badge/main/status.json&v=1" alt="Status" />&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=GastonMagarinos&label=Profile%20views&color=brightgreen&style=flat" alt="GastonMagarinos" /></div>
+<div  align="center">
+
+![Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/GastonMagarinos/my-status-badge/main/status.json)
+<img src="https://komarev.com/ghpvc/?username=GastonMagarinos&label=Profile%20views&color=brightgreen&style=flat" alt="GastonMagarinos" />
+
+</div>
 
 ---
 
