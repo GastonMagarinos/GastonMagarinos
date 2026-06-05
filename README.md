@@ -21,7 +21,7 @@
 
 - :school: I am a `Junior` at [Provincial University of Cordoba](https://www.upc.edu.ar/) at [Regional Headquarters Bernardo Houssay](https://www.upc.edu.ar/sede-capilla-del-monte/)  .
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Front-End`.
+- :computer: passionate about `Front-End` development .
 - :student: I’m currently learning `Full Stack Programming` .
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
