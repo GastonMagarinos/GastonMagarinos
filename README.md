@@ -25,7 +25,7 @@
 - :student: I’m currently learning `Full Stack Programming` .
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
-- :boom: You can visit [MY WEBSITE]().
+- :boom: You can visit [MY WEBSITE](https://gastonmagarinos.github.io/portfolio.github.io).
 
 ---
 
