@@ -35,7 +35,7 @@
 ### 🔑&nbsp;BackEnd & Arquitecture
 [![My Skills](https://skillicons.dev/icons?i=postgres,nodejs&perline=3)](https://skillicons.dev)
 ### 🔮&nbsp;Framewoks & Enviroment
-[![My Skills](https://skillicons.dev/icons?i=,git,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode&perline=3)](https://skillicons.dev)
 
 ---
 
