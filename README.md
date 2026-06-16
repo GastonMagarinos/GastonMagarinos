@@ -33,9 +33,9 @@
 ### 🎨&nbsp;FrontEnd & Interaction
 [![My Skills](https://skillicons.dev/icons?i=js,html,css&perline=3)](https://skillicons.dev)
 ### 🔑&nbsp;BackEnd & Arquitecture
-[![My Skills](https://skillicons.dev/icons?i=postgres&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,nodejs&perline=3)](https://skillicons.dev)
 ### 🔮&nbsp;Framewoks & Enviroment
-[![My Skills](https://skillicons.dev/icons?i=nodejs,git,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,git,vscode&perline=3)](https://skillicons.dev)
 
 ---
 
